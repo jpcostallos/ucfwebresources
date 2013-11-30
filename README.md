@@ -7,7 +7,7 @@ Curated by John D. Jameson, and anyone else who wants to contribute.
 
 ##Why Does This Exist?
 
-Everyone wants to learn, but it can be hard to figure out what is and isn't valuable on the web. Classes at UCF are great for getting our feet wet and learning new concepts, but as designers and developers, we're much better off learning from and practicing on the web itself.
+Classes at UCF are great for getting our feet wet and learning new concepts, but as designers and developers, we're much better off learning from and practicing on the web itself.
 
 
 ##Resources
@@ -81,11 +81,15 @@ Then there's also various tools and utilities across the web.
 	- *The* site for designers to showcase their work.
 * [Codrops](http://tympanus.net/codrops/)
 	- Tutorials and free resources for creating beautiful effects in the browser.
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+	- "A showcase of the best typefaces from the Google web fonts directory."
 
 
 ###Library Books
 
 The UCF library has a bunch of design-related books that nobody ever checks out. They're all just sitting on dusty shelves, waiting to be read by anyone eager to learn.
+
+The weird-looking letters and numbers are Call Numbers the univeristy uses to sort its books. 
 
 * [Don’t Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
 	- By Steve Krug
@@ -118,20 +122,20 @@ The UCF library has a bunch of design-related books that nobody ever checks out.
 
 ##Jobs
 
-School is cool, but work is where you get to make decisions and really get things done.
+School is cool, but work is where you get to make important decisions and really get things done.
 
 ###Advice
 
 * [How to Land Your Dream Job](http://blog.codeschool.com/post/64777766667/how-to-land-your-dream-job)
 * [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
+* [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
 ###Job Boards
 
-If you're a designer or developer, you're very likely to make many valuable insights just by reading through online job listings. While you might not be looking for a job at the moment, it's useful to know what employers are looking for so you can think ahead and prepare yourself for the future.
+If you're a designer or developer, it's definitely a good idea to research the types jobs you want to have. Knowing the skills and experience employers are looking for will give you the opporunity to prepare yourself accordingly and learn the tools of the trade.
 
 * [Authentic Jobs](http://www.authenticjobs.com)
-* [Dribbble Jobs](http://dribbble.com/jobs)
-* [Net Magazine](http://jobs.netmagazine.com/jobs/)
+* [Dribbble](http://dribbble.com/jobs)
 * [Smashing Magazine](http://jobs.smashingmagazine.com)
 * [Zurb](http://zurb.com/jobs)
 * [37 Signals](http://jobs.37signals.com)
@@ -143,22 +147,8 @@ I'm [@johndjameson](https://twitter.com/johndjameson) on Twitter. Feel free to a
 
 <!-- 
 
-???
-
-http://taitems.github.io/Front-End-Development-Guidelines/
-http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/
-
-
 INSPIRATION
 
 http://hellohappy.org/beautiful-web-type/
-
-
-TOOLS
-
-http://cssbeautify.com/
-
-
-JOBS
 
 -->
