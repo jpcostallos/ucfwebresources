@@ -12,13 +12,14 @@ Classes at UCF are great for getting our feet wet and learning new concepts, but
 
 ##Resources
 
-Websites, courses, and tools that'll get you up to speed and maybe even give you a competitive edge. 
+Websites, courses, and tools that'll get you up to speed and maybe even give you a competitive edge.
 
 ###Sites
 
 * [CSS-Tricks](http://css-tricks.com/)
 * [Smashing Magazine](http://www.smashingmagazine.com/)
 * [A List Apart](http://alistapart.com)
+* [HTML Dog](http://htmldog.com)
 
 ###Courses
 
@@ -30,11 +31,11 @@ These sites teach web design curiculum in a course-like structure.
 		- [JavaScript, jQuery](https://www.codeschool.com/paths/javascript)
 		- [Ruby and Ruby on Rails](https://www.codeschool.com/paths/ruby)
 		- [Chrome Developer Tools](https://www.codeschool.com/courses/discover-devtools)
-	- Check Facebook ads for a two-day free trial. 
+	- Check Facebook ads for a two-day free trial.
 	- You can also pay $9 for your first month by 'liking' their [Facebook page](https://www.facebook.com/CodeSchool/app_130240593792771).
 * [Codecademy](http://www.codecademy.com/learn)
 	- Beginner-level courses on a variety programming languages.
-	- Completely free. 
+	- Completely free.
 	- If you need to learn the fundamentals of a new language, this is the best place to go.
 * [Treehouse](http://teamtreehouse.com/tracks)
 	- The biggest diversity of [online courses](http://teamtreehouse.com/library).
@@ -49,6 +50,14 @@ These sites teach web design curiculum in a course-like structure.
 	- Curated links to even more resources online.
 	- Structured as an ongoing online course and updated weekly.
 		- Updates available via a [weekly newsletter](http://hackdesign.org/).
+* [User Interface Engineering — All You Can Learn](http://aycl.uie.com)
+	- UIE has over 120 hours of seminars and workshops by experts in mobile and web design:
+		- Responsive web design
+		- User experience
+		- Typography
+		- Content Strategy
+		- Accessibility
+	- The first month is free.
 
 ###Podcasts
 
@@ -57,6 +66,8 @@ These podcasts are all available on iTunes and generally available via RSS.
 * [ShopTalk Show](http://shoptalkshow.com/)
 	- The most informative and entertaining of all the listed podcasts.
 	- Listen to their 'Rapidfire' Q&A episodes for quick and easy advice and best practices.
+* [UIE Brain Sparks](http://www.uie.com/brainsparks/topics/podcasts/)
+	- User Experience expert Jared Spool interviews the web's hardest working professionals about various aspects of research and design.
 * [The Web Ahead](http://5by5.tv/webahead)
 	- Discussions with industry experts on the latest web technologies.
 * [The Big Web Show](http://www.muleradio.net/thebigwebshow/)
@@ -83,37 +94,9 @@ Then there's also various tools and utilities across the web.
 
 ###Library Books
 
-The UCF library has a bunch of design-related books that nobody ever checks out. They're all just sitting on dusty shelves, waiting to be read by anyone eager to learn.
+The UCF library has a bunch of design-related books that nobody ever checks out. They're all just sitting on dusty shelves, waiting to be read by anyone eager to learn. For easier usage on mobile devices, I've moved the list to a Google Document.
 
-The weird-looking letters and numbers are Call Numbers the univeristy uses to sort its books. 
-
-* [Emotional Design](http://www.amazon.com/Emotional-Design-Love-Everyday-Things/dp/0465051367)
-	- By Don Norman
-	- BF531 .N67
-* [Designing Brand Identity](http://www.amazon.com/Designing-Brand-Identity-Essential-Branding/dp/1118099206)
-	- By Alina Wheeler
-	- HD69.B7 W44
-* [Storytelling for User Experience](http://www.amazon.com/Storytelling-User-Experience-Crafting-Stories/dp/1933820470)
-	- By Whitney Quesenbery
-	- PN4193.I5 Q47
-* [The Laws of Simplicity](http://www.amazon.com/The-Laws-Simplicity-Technology-Business/dp/0262134721)
-	- By John Maeda
-	- TA168 .M255
-* [Designing for the Obvious](http://www.amazon.com/Designing-Obvious-Common-Approach-Application/dp/032145345X)
-	- By Robert Hoekman Jr.
-	- TK5105.888 .H64
-* [Don’t Make Me Think](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758)
-	- By Steve Krug
-	- TK5105.888 .K78
-* [The Design of Everyday Things](http://www.amazon.com/The-Design-Everyday-Things-Expanded/dp/0465050654)
-	- By Don Norman
-	- TS171.4 .N67
-* [The Elements of Typographic Style](http://www.amazon.com/Elements-Typographic-Style-Robert-Bringhurst/dp/0881791326)
-	- By Robert Bringhurst
-	- Z246 .B74
-* [Making and Breaking the Grid](http://www.amazon.com/Making-Breaking-Grid-Graphic-Workshop/dp/1592531253)
-	- By Timothy Samara
-	- Z246 .S23
+[UCF Design Books](https://docs.google.com/spreadsheet/ccc?key=0Ah7StM8mvePkdHVkZXlpNmZGemlnSUJHeWhyWmhHUEE&usp=sharing#gid=0)
 
 ###Miscellaneous
 
@@ -137,6 +120,7 @@ If you're a designer or developer, it's definitely a good idea to research the t
 * [Authentic Jobs](http://www.authenticjobs.com)
 * [Dribbble](http://dribbble.com/jobs)
 * [Smashing Magazine](http://jobs.smashingmagazine.com)
+* [We Work Remotely](https://weworkremotely.com)
 * [Zurb](http://zurb.com/jobs)
 * [37 Signals](http://jobs.37signals.com)
 
@@ -144,3 +128,12 @@ If you're a designer or developer, it's definitely a good idea to research the t
 ##Me
 
 I'm [@johndjameson](https://twitter.com/johndjameson) on Twitter. Feel free to ask me anything; I might not be able to help everyone personally, but I know where to look for answers and can definitely point people in the right direction.
+
+
+
+<!--
+
+http://htmldog.com
+http://prework.flatironschool.com
+
+-->
