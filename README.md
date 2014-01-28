@@ -82,15 +82,26 @@ Then there's also various tools and utilities across the web.
 * [CodePen](http://codepen.io/)
 	- An excellent place to practice HTML, CSS, JavaScript, and more.
 	- Removes the need to wrestle with setting up local files, libraries, and compilers. Just click 'New Pen' and start writing front-end code.
+* [Modular Scale](http://modularscale.com/)
+	- A handy application for calculating modular scales for web typography.
+	- Helpful links if "modular scales for web typography" doesn't make any sense to you yet.
+* [Color Scheme Designer](http://colorschemedesigner.com/)
+	- The best tool on the web for creating color palettes.
 
-###Inspiration
+###Visual Design
+
+####Typography
+* [Butterick’s Practical Typography](http://practicaltypography.com)
+	- The best free resource on the Internet for learning the fundamentals of typography.
+* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
+	- "A showcase of the best typefaces from the Google web fonts directory."
+
+####Inspiration
 
 * [Dribbble](http://dribbble.com/)
 	- *The* site for designers to showcase their work.
 * [Codrops](http://tympanus.net/codrops/)
 	- Tutorials and free resources for creating beautiful effects in the browser.
-* [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/)
-	- "A showcase of the best typefaces from the Google web fonts directory."
 
 ###Library Books
 
@@ -107,7 +118,7 @@ The UCF library has a bunch of design-related books that nobody ever checks out.
 
 ##Jobs
 
-School is cool, but work is where you get to make important decisions and really get things done.
+School is a step in the right direction, but until you're in the trenches making real websites, it's hard for a lot of the concepts to sink in.
 
 ###Advice
 
