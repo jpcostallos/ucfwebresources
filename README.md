@@ -82,9 +82,8 @@ Then there's also various tools and utilities across the web.
 * [CodePen](http://codepen.io/)
 	- An excellent place to practice HTML, CSS, JavaScript, and more.
 	- Removes the need to wrestle with setting up local files, libraries, and compilers. Just click 'New Pen' and start writing front-end code.
-* [Modular Scale](http://modularscale.com/)
-	- A handy application for calculating modular scales for web typography.
-	- Helpful links if "modular scales for web typography" doesn't make any sense to you yet.
+* [Type Scale](http://type-scale.com)
+	- A handy application for calculating scales for web typography.
 * [Color Scheme Designer](http://colorschemedesigner.com/)
 	- The best tool on the web for creating color palettes.
 
