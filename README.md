@@ -122,6 +122,7 @@ School is a step in the right direction, but until you're in the trenches making
 ###Advice
 
 * [How to Land Your Dream Job](http://blog.codeschool.com/post/64777766667/how-to-land-your-dream-job)
+* [Front End Dev Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 
 ###Job Boards
 
