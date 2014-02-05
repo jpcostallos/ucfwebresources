@@ -111,7 +111,6 @@ The UCF library has a bunch of design-related books that nobody ever checks out.
 ###Miscellaneous
 
 * [Front-end Development Guidelines](http://taitems.github.io/Front-End-Development-Guidelines/)
-* [Front-end Developer Interview Questions](https://github.com/darcyclarke/Front-end-Developer-Interview-Questions)
 * [A Baseline for Front-End Developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 
 
